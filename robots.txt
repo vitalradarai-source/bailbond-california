@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://bailbond-california.com/sitemap.xml
 Sitemap: https://www.angelsbailbonds.com/sitemaps.xml
