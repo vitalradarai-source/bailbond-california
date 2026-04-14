@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-california | what happens after an arrest in California | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-california | how do bail bonds work in California | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-california | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-california | how much is bail in Los Angeles County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-california | how to get someone out of jail in California | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-california | domestic violence bail bonds California | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-california | DUI bail bonds California | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-california | felony bail bonds California | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-bail-bond-california | bail bond california | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-california | drug possession bail California | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-california | can you bail someone out at night in California | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-california | how long does it take to bail someone out of County jail | Timeline | ⬜ |
